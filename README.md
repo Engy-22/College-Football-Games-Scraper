@@ -1,3 +1,3 @@
 # College-Football-Games-Scraper
-This program scrapes and cleans up data from masseyratings.com for all FBS games  to date in the current season. 
-It takes the team names and the scores of both   teams, preserving the @ to indicate the home team. It exports this to a csv. 
+# Multiyear CFB Games Scraper creates a CSV of all FBS football games for each year from 2010 to 2018, scraping and cleaning this information from masseyratings.com 
+# The Home/Away Boolean column is 1 if the game was played at the home team's location, and 0 for a neutral site game.
