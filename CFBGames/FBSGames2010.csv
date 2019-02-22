@@ -1,0 +1,701 @@
+,Home Team,Home Score,Away Team,Away Score,HomeAway Bool
+0,Hawaii,36,USC,49,1
+1,Iowa St,27,N Illinois,10,1
+2,Ohio St,45,Marshall,7,1
+3,MTSU,17,Minnesota,24,1
+4,Utah,27,Pittsburgh,24,1
+5,South Carolina,41,Southern Miss,13,1
+6,UAB,31,FL Atlantic,32,1
+7,Toledo,2,Arizona,41,1
+8,Akron,3,Syracuse,29,1
+9,Alabama,48,San Jose St,3,1
+10,Auburn,52,Arkansas St,26,1
+11,E Michigan,27,Army,31,1
+12,Troy,30,Bowling Green,27,1
+13,BYU,23,Washington,17,1
+14,Fresno St,28,Cincinnati,14,1
+15,Clemson,35,North Texas,10,1
+16,Colorado,24,Colorado St,3,0
+17,Michigan,30,Connecticut,10,1
+18,Florida,34,Miami OH,12,1
+19,Houston,68,Texas St,28,1
+20,Missouri,23,Illinois,13,0
+21,Kansas St,31,UCLA,22,1
+22,Louisville,16,Kentucky,23,1
+23,LSU,30,North Carolina,24,0
+24,Mississippi St,49,Memphis,7,1
+25,Michigan St,38,W Michigan,14,1
+26,Nebraska,49,WKU,10,1
+27,UNLV,21,Wisconsin,41,1
+28,Oregon,72,New Mexico,0,1
+29,Vanderbilt,21,Northwestern,23,1
+30,Notre Dame,23,Purdue,12,1
+31,Oklahoma,31,Utah St,24,1
+32,Oklahoma St,65,Washington St,17,1
+33,TCU,30,Oregon St,21,0
+34,Rice,17,Texas,34,1
+35,West Virginia,31,Coastal Car,0,1
+36,East Carolina,51,Tulsa,49,1
+37,Texas Tech,35,SMU,27,1
+38,Boise St,33,Virginia Tech,30,0
+39,Maryland,17,Navy,14,0
+40,Mississippi St,14,Auburn,17,1
+41,Temple,13,C Michigan,10,1
+42,Houston,54,UTEP,24,1
+43,Marshall,21,West Virginia,24,1
+44,Air Force,35,BYU,14,1
+45,Alabama,24,Penn St,3,1
+46,SMU,28,UAB,7,1
+47,Arkansas,31,ULM,7,0
+48,Army,28,Hawaii,31,1
+49,Ball St,23,Liberty,27,1
+50,Baylor,34,Buffalo,6,1
+51,Boston College,26,Kent,13,1
+52,Tulsa,33,Bowling Green,20,1
+53,California,52,Colorado,7,1
+54,UCF,21,NC State,28,1
+55,Nevada,51,Colorado St,6,1
+56,Wake Forest,54,Duke,48,1
+57,East Carolina,49,Memphis,27,1
+58,Miami OH,28,E Michigan,21,1
+59,Florida,38,South Florida,14,1
+60,Michigan St,30,FL Atlantic,17,0
+61,Florida Intl,14,Rutgers,19,1
+62,Oklahoma,47,Florida St,17,1
+63,South Carolina,17,Georgia,6,1
+64,Kansas,28,Georgia Tech,25,1
+65,Iowa,35,Iowa St,7,1
+66,Kentucky,63,WKU,28,1
+67,Vanderbilt,3,LSU,27,1
+68,Texas A&M,48,Louisiana Tech,16,1
+69,Ohio St,36,Miami FL,24,1
+70,Notre Dame,24,Michigan,28,1
+71,Tulane,13,Mississippi,27,1
+72,Navy,13,Ga Southern,7,1
+73,Utah,38,UNLV,10,1
+74,New Mexico,17,Texas Tech,52,1
+75,New Mexico,21,San Diego St,41,1
+76,North Texas,31,Rice,32,1
+77,Ohio,13,Toledo,20,1
+78,Oklahoma St,41,Troy,38,1
+79,Tennessee,13,Oregon,48,1
+80,Wisconsin,27,San Jose St,14,1
+81,USC,17,Virginia,14,1
+82,UCLA,0,Stanford,35,1
+83,Washington,41,Syracuse,20,1
+84,Texas,34,Wyoming,7,1
+85,NC State,30,Cincinnati,19,1
+86,Nevada,52,California,31,1
+87,Southern Miss,31,Kansas,16,1
+88,Oklahoma,27,Air Force,24,1
+89,Kentucky,47,Akron,10,1
+90,Duke,13,Alabama,62,1
+91,UAB,34,Troy,33,1
+92,Arizona,34,Iowa,27,1
+93,Wisconsin,20,Arizona St,19,1
+94,Georgia,24,Arkansas,31,1
+95,Arkansas St,34,ULM,20,1
+96,Army,24,North Texas,0,1
+97,Auburn,27,Clemson,24,1
+98,Purdue,24,Ball St,13,1
+99,TCU,45,Baylor,10,1
+100,Wyoming,6,Boise St,51,1
+101,Bowling Green,44,Marshall,28,1
+102,Florida St,34,BYU,10,1
+103,Buffalo,10,UCF,24,1
+104,E Michigan,14,C Michigan,52,1
+105,Colorado,31,Hawaii,13,1
+106,Miami OH,31,Colorado St,10,1
+107,Temple,30,Connecticut,16,1
+108,Virginia Tech,49,East Carolina,27,1
+109,Tennessee,17,Florida,31,1
+110,Texas A&M,27,Florida Intl,20,1
+111,Utah St,24,Fresno St,41,1
+112,North Carolina,24,Georgia Tech,30,1
+113,UCLA,31,Houston,13,1
+114,Illinois,28,N Illinois,22,1
+115,WKU,21,Indiana,38,1
+116,Kansas St,27,Iowa St,20,0
+117,Penn St,24,Kent,0,1
+118,LSU,29,Mississippi St,7,1
+119,Louisiana Tech,23,Navy,37,1
+120,Oregon St,35,Louisville,28,1
+121,West Virginia,31,Maryland,17,1
+122,Memphis,24,MTSU,17,1
+123,Michigan,42,Massachusetts,37,1
+124,Michigan St,34,Notre Dame,31,1
+125,Minnesota,21,USC,32,1
+126,Mississippi,14,Vanderbilt,28,1
+127,Missouri,27,San Diego St,24,1
+128,Washington,21,Nebraska,56,1
+129,New Mexico,14,Utah,56,1
+130,UTEP,42,New Mexico St,10,1
+131,Rice,13,Northwestern,30,1
+132,Ohio St,43,Ohio,7,1
+133,Oklahoma St,65,Tulsa,28,1
+134,SMU,35,Washington St,21,1
+135,Stanford,68,Wake Forest,24,1
+136,Texas Tech,14,Texas,24,1
+137,W Michigan,24,Toledo,37,1
+138,Pittsburgh,3,Miami FL,31,1
+139,SMU,24,TCU,41,1
+140,Wyoming,14,Air Force,20,1
+141,Indiana,35,Akron,20,1
+142,Arkansas,20,Alabama,24,1
+143,Tennessee,32,UAB,29,1
+144,Arizona,10,California,9,1
+145,Arizona St,31,Oregon,42,1
+146,Troy,35,Arkansas St,28,1
+147,Duke,21,Army,35,1
+148,Auburn,35,South Carolina,27,1
+149,Iowa,45,Ball St,0,1
+150,Rice,13,Baylor,30,1
+151,Boise St,37,Oregon St,24,1
+152,Boston College,0,Virginia Tech,19,1
+153,Michigan,65,Bowling Green,21,1
+154,BYU,13,Nevada,27,1
+155,Connecticut,45,Buffalo,21,1
+156,Kansas St,17,UCF,13,1
+157,Northwestern,30,C Michigan,25,1
+158,Cincinnati,29,Oklahoma,31,1
+159,Ohio St,73,E Michigan,20,1
+160,Florida,48,Kentucky,14,1
+161,FL Atlantic,17,North Texas,21,1
+162,Maryland,42,Florida Intl,28,1
+163,Florida St,31,Wake Forest,0,1
+164,Mississippi,55,Fresno St,38,1
+165,Mississippi St,24,Georgia,12,1
+166,Georgia Tech,28,NC State,45,1
+167,Houston,42,Tulane,23,1
+168,Kansas,42,New Mexico St,16,1
+169,LSU,20,West Virginia,14,1
+170,Louisiana Tech,12,Southern Miss,13,1
+171,Marshall,24,Ohio,23,1
+172,UTEP,16,Memphis,13,1
+173,Missouri,51,Miami OH,13,1
+174,Minnesota,23,N Illinois,34,1
+175,UNLV,45,New Mexico,10,1
+176,Rutgers,13,North Carolina,17,1
+177,Notre Dame,14,Stanford,37,1
+178,Penn St,22,Temple,13,1
+179,Purdue,20,Toledo,31,1
+180,San Diego St,41,Utah St,7,1
+181,Utah,56,San Jose St,3,1
+182,South Florida,24,WKU,12,1
+183,Washington St,16,USC,50,1
+184,Texas,12,UCLA,34,1
+185,Oklahoma St,38,Texas A&M,35,1
+186,Utah St,31,BYU,16,1
+187,Air Force,14,Navy,6,1
+188,Akron,14,N Illinois,50,1
+189,Alabama,31,Florida,6,1
+190,Oregon St,31,Arizona St,28,1
+191,Arkansas St,24,Louisville,34,1
+192,Army,35,Temple,42,1
+193,Auburn,52,ULM,3,1
+194,C Michigan,17,Ball St,31,1
+195,Baylor,55,Kansas,7,1
+196,New Mexico St,0,Boise St,59,1
+197,Boston College,13,Notre Dame,31,1
+198,Bowling Green,26,Buffalo,28,1
+199,Clemson,21,Miami FL,30,1
+200,Colorado,29,Georgia,27,1
+201,Colorado St,0,TCU,27,1
+202,Connecticut,40,Vanderbilt,21,1
+203,Maryland,21,Duke,16,1
+204,North Carolina,42,East Carolina,17,1
+205,E Michigan,17,Ohio,30,1
+206,South Florida,31,FL Atlantic,3,1
+207,Pittsburgh,44,Florida Intl,17,1
+208,Virginia,14,Florida St,34,1
+209,Wake Forest,20,Georgia Tech,24,1
+210,Hawaii,41,Louisiana Tech,21,1
+211,Illinois,13,Ohio St,24,1
+212,Indiana,35,Michigan,42,1
+213,Iowa,24,Penn St,3,1
+214,Iowa St,52,Texas Tech,38,1
+215,Miami OH,27,Kent,21,1
+216,Mississippi,42,Kentucky,35,1
+217,LSU,16,Tennessee,14,1
+218,Southern Miss,41,Marshall,16,1
+219,Memphis,7,Tulsa,48,1
+220,Michigan St,34,Wisconsin,24,1
+221,Minnesota,28,Northwestern,29,1
+222,UNLV,26,Nevada,44,1
+223,New Mexico,20,UTEP,38,1
+224,NC State,30,Virginia Tech,41,1
+225,Oklahoma,28,Texas,20,0
+226,Oregon,52,Stanford,31,1
+227,Rice,31,SMU,42,1
+228,Rutgers,14,Tulane,17,1
+229,USC,31,Washington,32,1
+230,Toledo,15,Wyoming,20,1
+231,UCLA,42,Washington St,28,1
+232,MTSU,13,Troy,42,1
+233,UCF,42,UAB,7,1
+234,Kansas St,13,Nebraska,48,1
+235,Rutgers,27,Connecticut,24,1
+236,Air Force,49,Colorado St,27,1
+237,Kent,28,Akron,17,1
+238,South Carolina,35,Alabama,21,1
+239,Arizona,27,Oregon St,29,1
+240,Washington,14,Arizona St,24,1
+241,Arkansas,24,Texas A&M,17,0
+242,North Texas,19,Arkansas St,24,1
+243,Tulane,23,Army,41,1
+244,Kentucky,34,Auburn,37,1
+245,Ball St,16,W Michigan,45,1
+246,Texas Tech,45,Baylor,38,0
+247,Boise St,57,Toledo,14,1
+248,NC State,44,Boston College,17,1
+249,Ohio,49,Bowling Green,25,1
+250,BYU,24,San Diego St,21,1
+251,California,35,UCLA,7,1
+252,Virginia Tech,45,C Michigan,21,1
+253,Cincinnati,45,Miami OH,3,1
+254,North Carolina,21,Clemson,16,1
+255,Missouri,26,Colorado,0,1
+256,Southern Miss,43,East Carolina,44,1
+257,Vanderbilt,52,E Michigan,6,1
+258,Florida,29,LSU,33,1
+259,ULM,20,FL Atlantic,17,1
+260,Florida Intl,28,WKU,21,1
+261,Miami FL,17,Florida St,45,1
+262,Fresno St,27,Hawaii,49,1
+263,Georgia,41,Tennessee,14,1
+264,Georgia Tech,33,Virginia,21,1
+265,Houston,24,Mississippi St,47,1
+266,Penn St,13,Illinois,33,1
+267,Ohio St,38,Indiana,10,1
+268,Iowa St,27,Utah,68,1
+269,Louisiana Tech,24,Utah St,6,1
+270,Louisville,56,Memphis,0,1
+271,Michigan,17,Michigan St,34,1
+272,Wisconsin,41,Minnesota,23,1
+273,Wake Forest,27,Navy,28,1
+274,Nevada,35,San Jose St,13,1
+275,West Virginia,49,UNLV,10,1
+276,New Mexico St,16,New Mexico,14,1
+277,N Illinois,31,Temple,17,1
+278,Northwestern,17,Purdue,20,1
+279,Notre Dame,23,Pittsburgh,17,1
+280,Washington St,23,Oregon,43,1
+281,UTEP,44,Rice,24,1
+282,South Florida,9,Syracuse,13,1
+283,Stanford,37,USC,35,1
+284,SMU,21,Tulsa,18,1
+285,TCU,45,Wyoming,0,1
+286,Marshall,14,UCF,35,1
+287,West Virginia,20,South Florida,6,1
+288,Kansas,7,Kansas St,59,1
+289,Louisville,27,Cincinnati,35,1
+290,San Diego St,27,Air Force,25,1
+291,Ohio,38,Akron,10,1
+292,Alabama,23,Mississippi,10,1
+293,UAB,21,UTEP,6,1
+294,Washington St,7,Arizona,24,1
+295,Auburn,65,Arkansas,43,1
+296,Indiana,36,Arkansas St,34,1
+297,Rutgers,23,Army,20,0
+298,Ball St,38,E Michigan,41,1
+299,Colorado,25,Baylor,31,1
+300,San Jose St,0,Boise St,48,1
+301,Florida St,24,Boston College,19,1
+302,Temple,28,Bowling Green,27,1
+303,TCU,31,BYU,3,1
+304,N Illinois,45,Buffalo,14,1
+305,USC,48,California,14,1
+306,C Michigan,20,Miami OH,27,1
+307,Clemson,31,Maryland,7,1
+308,Colorado St,43,UNLV,10,1
+309,Duke,13,Miami FL,28,1
+310,East Carolina,33,NC State,27,1
+311,Florida,7,Mississippi St,10,1
+312,North Texas,10,Florida Intl,34,1
+313,Fresno St,33,New Mexico St,10,1
+314,Georgia,43,Vanderbilt,0,1
+315,Georgia Tech,42,MTSU,14,1
+316,Hawaii,27,Nevada,21,1
+317,Rice,34,Houston,31,1
+318,Michigan St,26,Illinois,6,1
+319,Michigan,28,Iowa,38,1
+320,Oklahoma,52,Iowa St,0,1
+321,Toledo,34,Kent,21,1
+322,Kentucky,31,South Carolina,28,1
+323,WKU,30,ULM,35,1
+324,Memphis,19,Southern Miss,41,1
+325,Purdue,28,Minnesota,17,1
+326,Texas A&M,9,Missouri,30,1
+327,Navy,28,SMU,21,1
+328,Nebraska,13,Texas,20,1
+329,Virginia,10,North Carolina,44,1
+330,Notre Dame,44,W Michigan,20,1
+331,Wisconsin,31,Ohio St,18,1
+332,Texas Tech,17,Oklahoma St,34,1
+333,Washington,35,Oregon St,34,1
+334,Syracuse,14,Pittsburgh,45,1
+335,Tulsa,52,Tulane,24,1
+336,Wyoming,6,Utah,30,1
+337,Virginia Tech,52,Wake Forest,21,1
+338,Oregon,60,UCLA,13,1
+339,Cincinnati,30,South Florida,38,1
+340,TCU,38,Air Force,7,1
+341,Akron,10,W Michigan,56,1
+342,Tennessee,10,Alabama,41,1
+343,Mississippi St,29,UAB,24,1
+344,Arizona,44,Washington,14,1
+345,California,50,Arizona St,17,1
+346,Arkansas,38,Mississippi,24,1
+347,Arkansas St,37,FL Atlantic,16,1
+348,Auburn,24,LSU,17,1
+349,Toledo,31,Ball St,24,1
+350,Baylor,47,Kansas St,42,1
+351,Boston College,21,Maryland,24,1
+352,Bowling Green,6,Kent,30,1
+353,BYU,25,Wyoming,20,1
+354,Buffalo,0,Temple,42,1
+355,UCF,41,Rice,14,1
+356,N Illinois,33,C Michigan,7,1
+357,Clemson,27,Georgia Tech,13,1
+358,Colorado,24,Texas Tech,27,1
+359,Utah,59,Colorado St,6,1
+360,Louisville,26,Connecticut,0,1
+361,Virginia Tech,44,Duke,7,1
+362,East Carolina,37,Marshall,10,1
+363,Virginia,48,E Michigan,21,1
+364,San Jose St,18,Fresno St,33,1
+365,Kentucky,31,Georgia,44,1
+366,Utah St,7,Hawaii,45,1
+367,SMU,20,Houston,45,1
+368,Illinois,43,Indiana,13,1
+369,Iowa,30,Wisconsin,31,1
+370,Texas,21,Iowa St,28,1
+371,Kansas,10,Texas A&M,45,1
+372,MTSU,38,ULM,10,1
+373,Miami FL,33,North Carolina,10,1
+374,Miami OH,13,Ohio,34,1
+375,Northwestern,27,Michigan St,35,1
+376,Minnesota,21,Penn St,33,1
+377,Missouri,36,Oklahoma,27,1
+378,Navy,35,Notre Dame,17,0
+379,Oklahoma St,41,Nebraska,51,1
+380,New Mexico,20,San Diego St,30,1
+381,Ohio St,49,Purdue,0,1
+382,Pittsburgh,41,Rutgers,21,1
+383,Vanderbilt,7,South Carolina,21,1
+384,Stanford,38,Washington St,28,1
+385,West Virginia,14,Syracuse,19,1
+386,UTEP,24,Tulane,34,1
+387,Boise St,49,Louisiana Tech,20,1
+388,NC State,28,Florida St,24,1
+389,Connecticut,16,West Virginia,13,1
+390,Air Force,23,Utah,28,1
+391,Temple,30,Akron,0,1
+392,Southern Miss,49,UAB,50,1
+393,UCLA,21,Arizona,29,1
+394,Arizona St,42,Washington St,0,1
+395,Arkansas,49,Vanderbilt,14,1
+396,Mississippi,31,Auburn,51,1
+397,Kent,33,Ball St,14,1
+398,Texas,22,Baylor,30,1
+399,Boston College,16,Clemson,10,1
+400,C Michigan,14,Bowling Green,17,1
+401,Buffalo,9,Miami OH,21,1
+402,Oregon St,35,California,7,1
+403,UCF,49,East Carolina,35,1
+404,Cincinnati,7,Syracuse,31,1
+405,Oklahoma,43,Colorado,10,1
+406,Colorado St,38,New Mexico,14,1
+407,Navy,31,Duke,34,1
+408,E Michigan,7,Toledo,42,1
+409,Florida,34,Georgia,31,0
+410,FL Atlantic,21,Florida Intl,9,1
+411,Memphis,17,Houston,56,1
+412,Illinois,44,Purdue,10,1
+413,Indiana,17,Northwestern,20,1
+414,Iowa,37,Michigan St,6,1
+415,Iowa St,28,Kansas,16,1
+416,Kansas St,14,Oklahoma St,24,1
+417,Mississippi St,24,Kentucky,17,1
+418,ULM,28,Troy,14,1
+419,Pittsburgh,20,Louisville,3,1
+420,Marshall,16,UTEP,12,1
+421,Maryland,62,Wake Forest,14,1
+422,Virginia,24,Miami FL,19,1
+423,Penn St,41,Michigan,31,1
+424,Minnesota,10,Ohio St,52,1
+425,Nebraska,31,Missouri,17,1
+426,Nevada,56,Utah St,42,1
+427,UNLV,6,TCU,48,1
+428,WKU,6,North Texas,33,1
+429,W Michigan,21,N Illinois,28,1
+430,Notre Dame,27,Tulsa,28,1
+431,USC,32,Oregon,53,1
+432,Wyoming,38,San Diego St,48,1
+433,South Carolina,38,Tennessee,24,1
+434,Tulane,17,SMU,31,1
+435,Washington,0,Stanford,41,1
+436,Texas A&M,45,Texas Tech,27,1
+437,Arkansas St,51,MTSU,24,1
+438,South Florida,28,Rutgers,27,1
+439,Ohio,34,Buffalo,17,1
+440,Virginia Tech,28,Georgia Tech,21,1
+441,Houston,33,UCF,40,1
+442,C Michigan,26,W Michigan,22,1
+443,Army,22,Air Force,42,1
+444,Ball St,37,Akron,30,1
+445,LSU,24,Alabama,21,1
+446,UAB,17,Marshall,31,1
+447,Stanford,42,Arizona,17,1
+448,USC,34,Arizona St,33,1
+449,South Carolina,20,Arkansas,41,1
+450,Oklahoma St,55,Baylor,28,1
+451,Boise St,42,Hawaii,7,1
+452,Wake Forest,13,Boston College,23,1
+453,BYU,55,UNLV,7,1
+454,Washington St,13,California,20,1
+455,Clemson,14,NC State,13,1
+456,Kansas,52,Colorado,45,1
+457,San Diego St,24,Colorado St,19,1
+458,Duke,55,Virginia,48,1
+459,East Carolina,35,Navy,76,1
+460,Vanderbilt,14,Florida,55,1
+461,WKU,16,FL Atlantic,17,1
+462,Florida Intl,42,ULM,35,1
+463,Florida St,35,North Carolina,37,1
+464,Louisiana Tech,34,Fresno St,40,1
+465,Michigan,67,Illinois,65,1
+466,Indiana,13,Iowa,18,1
+467,Iowa St,30,Nebraska,31,1
+468,Kansas St,39,Texas,14,1
+469,Kent,10,Temple,28,1
+470,Syracuse,20,Louisville,28,1
+471,Miami FL,26,Maryland,20,1
+472,Memphis,14,Tennessee,50,1
+473,Michigan St,31,Minnesota,8,1
+474,Texas Tech,24,Missouri,17,1
+475,New Mexico,34,Wyoming,31,1
+476,Utah St,27,New Mexico St,22,1
+477,North Texas,35,Troy,41,1
+478,Penn St,35,Northwestern,21,1
+479,Texas A&M,33,Oklahoma,19,1
+480,Oregon,53,Washington,16,1
+481,UCLA,17,Oregon St,14,1
+482,Purdue,13,Wisconsin,34,1
+483,Tulsa,64,Rice,27,1
+484,UTEP,28,SMU,14,1
+485,Tulane,30,Southern Miss,46,1
+486,Utah,7,TCU,47,1
+487,N Illinois,65,Toledo,30,1
+488,Bowling Green,21,Miami OH,24,1
+489,Connecticut,30,Pittsburgh,28,1
+490,UAB,42,East Carolina,54,1
+491,Buffalo,3,Ball St,20,1
+492,Air Force,48,New Mexico,23,1
+493,Alabama,30,Mississippi St,10,1
+494,Arizona,21,USC,24,1
+495,Arizona St,13,Stanford,17,1
+496,Arkansas,58,UTEP,21,1
+497,Arkansas St,35,WKU,36,1
+498,Kent,28,Army,45,1
+499,Auburn,49,Georgia,31,1
+500,Baylor,30,Texas A&M,42,1
+501,Duke,16,Boston College,21,1
+502,Colorado St,10,BYU,49,1
+503,California,13,Oregon,15,1
+504,UCF,21,Southern Miss,31,1
+505,Navy,38,C Michigan,37,1
+506,West Virginia,37,Cincinnati,10,1
+507,Florida St,16,Clemson,13,1
+508,Colorado,34,Iowa St,14,1
+509,W Michigan,45,E Michigan,30,1
+510,Florida,14,South Carolina,36,1
+511,Troy,35,Florida Intl,52,1
+512,Fresno St,34,Nevada,35,1
+513,Georgia Tech,10,Miami FL,35,1
+514,Houston,25,Tulsa,28,1
+515,Illinois,34,Minnesota,38,1
+516,Wisconsin,83,Indiana,20,1
+517,Northwestern,21,Iowa,17,1
+518,Nebraska,20,Kansas,3,1
+519,Missouri,38,Kansas St,28,1
+520,Kentucky,38,Vanderbilt,20,1
+521,LSU,51,ULM,0,1
+522,New Mexico St,20,Louisiana Tech,41,1
+523,Louisville,21,South Florida,24,1
+524,Marshall,28,Memphis,13,1
+525,Virginia,23,Maryland,42,1
+526,Purdue,16,Michigan,27,1
+527,MTSU,17,North Texas,23,1
+528,Tennessee,52,Mississippi,14,1
+529,UNLV,42,Wyoming,16,1
+530,North Carolina,10,Virginia Tech,26,1
+531,NC State,38,Wake Forest,3,1
+532,Notre Dame,28,Utah,3,1
+533,Ohio St,38,Penn St,14,1
+534,Oklahoma,45,Texas Tech,7,1
+535,Texas,16,Oklahoma St,33,1
+536,Oregon St,14,Washington St,31,1
+537,Tulane,54,Rice,49,1
+538,Rutgers,10,Syracuse,13,1
+539,TCU,40,San Diego St,35,1
+540,San Jose St,34,Utah St,38,1
+541,Temple,23,Ohio,31,1
+542,Akron,14,Miami OH,19,1
+543,Toledo,33,Bowling Green,14,1
+544,UNLV,20,Air Force,35,1
+545,Washington,24,UCLA,7,1
+546,Alabama,63,Georgia St,7,1
+547,Boise St,51,Fresno St,0,1
+548,UAB,31,Memphis,15,1
+549,Mississippi St,31,Arkansas,38,1
+550,Navy,35,Arkansas St,19,1
+551,Notre Dame,27,Army,3,0
+552,Ball St,21,N Illinois,59,1
+553,Baylor,24,Oklahoma,53,1
+554,Boston College,17,Virginia,13,1
+555,BYU,40,New Mexico,7,1
+556,Buffalo,17,E Michigan,21,1
+557,California,14,Stanford,48,1
+558,Tulane,14,UCF,61,1
+559,Cincinnati,69,Rutgers,38,1
+560,Wake Forest,10,Clemson,30,1
+561,Colorado,44,Kansas St,36,1
+562,Wyoming,44,Colorado St,0,1
+563,Syracuse,6,Connecticut,23,1
+564,Georgia Tech,30,Duke,20,1
+565,Rice,62,East Carolina,38,1
+566,Florida,48,Appalachian St,10,1
+567,Texas,51,FL Atlantic,17,1
+568,Maryland,16,Florida St,30,1
+569,Hawaii,41,San Jose St,7,1
+570,Southern Miss,59,Houston,41,1
+571,Northwestern,27,Illinois,48,1
+572,Penn St,41,Indiana,24,0
+573,Iowa,17,Ohio St,20,1
+574,Iowa St,0,Missouri,14,1
+575,Kansas,14,Oklahoma St,48,1
+576,W Michigan,38,Kent,3,1
+577,LSU,43,Mississippi,36,1
+578,ULM,49,North Texas,37,1
+579,Louisville,10,West Virginia,17,1
+580,SMU,31,Marshall,17,1
+581,Miami FL,17,Virginia Tech,31,1
+582,Michigan,28,Wisconsin,48,1
+583,Michigan St,35,Purdue,31,1
+584,WKU,26,MTSU,27,1
+585,Texas A&M,9,Nebraska,6,1
+586,Nevada,52,New Mexico St,6,1
+587,North Carolina,25,NC State,29,1
+588,Oregon St,36,USC,7,1
+589,South Florida,10,Pittsburgh,17,1
+590,San Diego St,34,Utah,38,1
+591,South Carolina,69,Troy,24,1
+592,Vanderbilt,10,Tennessee,24,1
+593,Tulsa,31,UTEP,28,1
+594,Miami OH,23,Temple,3,1
+595,Texas,17,Texas A&M,24,1
+596,Akron,22,Buffalo,14,1
+597,Alabama,27,Auburn,28,1
+598,Oregon,48,Arizona,29,1
+599,Arizona St,55,UCLA,34,1
+600,Nevada,34,Boise St,31,1
+601,Bowling Green,7,W Michigan,41,1
+602,Toledo,42,C Michigan,31,1
+603,Nebraska,45,Colorado,17,1
+604,East Carolina,38,SMU,45,1
+605,E Michigan,3,N Illinois,71,1
+606,Kent,28,Ohio,6,1
+607,Rutgers,13,Louisville,40,1
+608,Pittsburgh,10,West Virginia,35,1
+609,Tulsa,56,Southern Miss,50,1
+610,Rice,28,UAB,23,1
+611,Arkansas,31,LSU,23,0
+612,Florida Intl,31,Arkansas St,24,1
+613,Syracuse,7,Boston College,16,1
+614,Utah,17,BYU,16,1
+615,California,13,Washington,16,1
+616,Memphis,17,UCF,37,1
+617,Connecticut,38,Cincinnati,17,1
+618,Clemson,7,South Carolina,29,1
+619,Duke,19,North Carolina,24,1
+620,Florida St,31,Florida,7,1
+621,MTSU,38,FL Atlantic,14,1
+622,Georgia,42,Georgia Tech,34,1
+623,New Mexico St,24,Hawaii,59,1
+624,Texas Tech,35,Houston,20,1
+625,Purdue,31,Indiana,34,1
+626,Minnesota,27,Iowa,24,1
+627,Missouri,35,Kansas,7,0
+628,North Texas,41,Kansas St,49,1
+629,Tennessee,24,Kentucky,14,1
+630,San Jose St,38,Louisiana Tech,45,1
+631,Marshall,38,Tulane,23,1
+632,Maryland,38,NC State,31,1
+633,Miami FL,20,South Florida,23,1
+634,Ohio St,37,Michigan,7,1
+635,Penn St,22,Michigan St,28,1
+636,Mississippi,23,Mississippi St,31,1
+637,San Diego St,48,UNLV,14,1
+638,New Mexico,17,TCU,66,1
+639,Wisconsin,70,Northwestern,23,1
+640,USC,16,Notre Dame,20,1
+641,Oklahoma St,41,Oklahoma,47,1
+642,Stanford,38,Oregon St,0,1
+643,Troy,28,WKU,14,1
+644,Vanderbilt,13,Wake Forest,34,1
+645,Virginia Tech,37,Virginia,7,1
+646,Arizona,29,Arizona St,30,1
+647,Fresno St,25,Illinois,23,1
+648,Miami OH,26,N Illinois,21,0
+649,Boise St,50,Utah St,14,1
+650,Cincinnati,10,Pittsburgh,28,1
+651,South Florida,16,Connecticut,19,1
+652,FL Atlantic,7,Troy,44,1
+653,Florida Intl,27,MTSU,28,1
+654,Hawaii,59,UNLV,21,1
+655,Louisiana Tech,17,Nevada,35,1
+656,Oregon St,20,Oregon,37,1
+657,West Virginia,35,Rutgers,14,1
+658,UCLA,14,USC,28,1
+659,Washington St,28,Washington,35,1
+660,Virginia Tech,44,Florida St,33,0
+661,Auburn,56,South Carolina,17,0
+662,UCF,17,SMU,7,1
+663,Oklahoma,23,Nebraska,20,0
+664,Navy,31,Army,17,0
+665,N Illinois,40,Fresno St,17,0
+666,Troy,48,Ohio,21,0
+667,BYU,52,UTEP,24,0
+668,Louisville,31,Southern Miss,28,0
+669,Boise St,26,Utah,3,0
+670,San Diego St,35,Navy,14,1
+671,Hawaii,35,Tulsa,62,1
+672,Florida Intl,34,Toledo,32,0
+673,Air Force,14,Georgia Tech,7,0
+674,Iowa,27,Missouri,24,0
+675,NC State,23,West Virginia,7,0
+676,Illinois,38,Baylor,14,0
+677,Maryland,51,East Carolina,20,0
+678,Oklahoma St,36,Arizona,10,0
+679,Army,16,SMU,14,0
+680,Syracuse,36,Kansas St,34,0
+681,North Carolina,30,Tennessee,27,0
+682,Washington,19,Nebraska,7,0
+683,South Florida,31,Clemson,26,0
+684,UCF,10,Georgia,6,0
+685,Notre Dame,33,Miami FL,17,0
+686,Florida St,26,South Carolina,17,0
+687,Alabama,49,Michigan St,7,0
+688,Florida,37,Penn St,24,0
+689,Mississippi St,52,Michigan,14,0
+690,Oklahoma,48,Connecticut,20,0
+691,TCU,21,Wisconsin,19,0
+692,Texas Tech,45,Northwestern,38,0
+693,Stanford,40,Virginia Tech,12,0
+694,Ohio St,31,Arkansas,26,0
+695,Miami OH,35,MTSU,21,0
+696,LSU,41,Texas A&M,24,0
+697,Pittsburgh,27,Kentucky,10,0
+698,Nevada,20,Boston College,13,0
+699,Auburn,22,Oregon,19,0
